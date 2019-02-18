@@ -1,0 +1,10 @@
+h1.title {
+    color: red;
+    margin: 20px;
+    background: green;
+    padding: 10px 5px 10px 5px;
+}
+
+p {
+    color: yellow;
+}
